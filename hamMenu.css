@@ -1,0 +1,22 @@
+html {
+  background-color: black;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.dropDown {
+  background-color: darkgray;
+  display: none;
+}
+
